@@ -32,7 +32,7 @@ function Addform(props){
 
 export default function App(){
   const[data,setData]=useState([
-    {id:1,name:"Kyaw",price:0.99},
+    {id:1,name:"Ko",price:0.99},
     {id:2,name:"Phyo",price:70},
   ]);
 
